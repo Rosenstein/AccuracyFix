@@ -1,3 +1,6 @@
+<h1 align="center">This plugin is archved.</h1>
+<h4>I will move this project to: <a href="https://github.com/smileYzn/spread">Spread Control Plugin</a></h4>
+
 <h1 align="center">Counter-Strike 1.6 Accuracy Fix</h1>
 <p align="center">Counter-Strike 1.6 Accuracy Fix Plugin for MetaMod and ReGameDLL_CS</p>
 
